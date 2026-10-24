@@ -35,6 +35,20 @@ I care about the tiny details: how something moves, how it responds, and how it 
       <p><code>Python</code> <code>Swift</code> <code>Leaflet</code> <code>HTML</code></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/buzzword365/sonora-music"><img src="./assets/sonora-preview.svg" alt="Illustrated Sonora Music player with a lime-green music waveform and vinyl record" width="100%" /></a>
+      <h3><a href="https://github.com/buzzword365/sonora-music">Sonora Music ↗</a></h3>
+      <p>Local-first macOS music player with playlists, queue management, media controls and a paired phone companion. The public release includes the compiled frontend.</p>
+      <p><code>Electron</code> <code>React</code> <code>JavaScript</code> <code>Node.js</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/buzzword365/class-notes"><img src="./assets/class-notes-preview.svg" alt="Illustrated Class Notes interface with a purple notes page, tasks and waveform" width="100%" /></a>
+      <h3><a href="https://github.com/buzzword365/class-notes">Class Notes ↗</a></h3>
+      <p>A private, local-first class transcript and study organiser that extracts homework, test dates and key points. Users create their own timetable.</p>
+      <p><code>Python</code> <code>PySide6</code> <code>SQLite</code> <code>Whisper</code></p>
+    </td>
+  </tr>
 </table>
 
 ### 🛠 Things I build with
