@@ -23,7 +23,7 @@ I care about the tiny details: how something moves, how it responds, and how it 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/buzzword365/weather-eyes"><img src="https://raw.githubusercontent.com/buzzword365/weather-eyes/main/docs/rain.jpg" alt="Weather Eyes live weather wallpaper showing rain" width="100%" /></a>
+      <a href="https://github.com/buzzword365/weather-eyes"><img src="./assets/weather-preview.svg" alt="Custom neon-green Weather Eyes artwork featuring a black orb, expressive eyes and a rainy sky" width="100%" /></a>
       <h3><a href="https://github.com/buzzword365/weather-eyes">Weather Eyes ↗</a></h3>
       <p>An expressive macOS live wallpaper with cursor-following eyes, daily colourway rolls, and a sky that reacts to real weather in a location you choose.</p>
       <p><code>Swift</code> <code>WebKit</code> <code>JavaScript</code> <code>Canvas</code></p>
