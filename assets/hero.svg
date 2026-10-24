@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="Ziz — making software that feels alive">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101414"/><stop offset="1" stop-color="#191f1d"/></linearGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#ffffff" stroke-opacity=".042"/></pattern>
+  </defs>
+  <rect width="1200" height="330" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="330" rx="24" fill="url(#grid)"/>
+  <path d="M970-76a231 231 0 1 1 0 462a231 231 0 1 1 0-462Z" fill="none" stroke="#C9FF88" stroke-opacity=".25" stroke-width="2"/>
+  <circle cx="974" cy="156" r="143" fill="#C9FF88" fill-opacity=".05" stroke="#C9FF88" stroke-opacity=".12" stroke-width="2"/>
+  <circle cx="974" cy="156" r="87" fill="#C9FF88" fill-opacity=".07"/>
+  <circle cx="974" cy="156" r="24" fill="#C9FF88"/>
+  <circle cx="998" cy="147" r="9" fill="#111614"/>
+  <path d="M860 44l18 18m0-18l-18 18M1134 260h29m-14-14v29" stroke="#C9FF88" stroke-width="3" stroke-linecap="round"/>
+  <path d="M1 264h1198" stroke="#ffffff" stroke-opacity=".1"/>
+  <g fill="#C9FF88" font-family="-apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="4">
+    <text x="55" y="53">ZIZ / SOFTWARE</text>
+  </g>
+  <g fill="#F6F5F0" font-family="-apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-weight="800">
+    <text x="52" y="132" font-size="57" letter-spacing="-2">Making software</text>
+    <text x="52" y="199" font-size="57" letter-spacing="-2">that <tspan fill="#C9FF88">feels alive.</tspan></text>
+  </g>
+  <text x="56" y="237" fill="#A5B1AA" font-family="-apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="19">Playful ideas. Precise execution. No boring buttons.</text>
+  <text x="55" y="300" fill="#DCE2DB" font-family="-apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="16" letter-spacing="1.4">SWIFT   /   PYTHON   /   JAVASCRIPT   /   INTERACTIVE UI</text>
+  <circle cx="1158" cy="288" r="7" fill="#C9FF88"/>
+</svg>
