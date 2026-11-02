@@ -18,6 +18,7 @@ I care about performance, thoughtful interfaces, and small details that make a t
 ## Also exploring
 
 - **[iPhone location simulation](https://github.com/buzzword365/spoof-by-ziz)** — a USB-connected development and device-testing tool.
+- **[Drift](https://github.com/buzzword365/drift)** — local-first macOS wind-down app with breathing and optional ambient sounds (release candidate).
 - **[Portfolio experiments](https://github.com/buzzword365/buzzword365.github.io)** — interactive front-end work and motion studies.
 
 ## How I approach projects
